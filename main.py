@@ -1,5 +1,7 @@
 from fastapi import FastAPI
 from stock_price_retrieval import *
+import db
+import auth
 app = FastAPI()
 
 
@@ -9,8 +11,8 @@ async def root():
 
 
 @app.get('/login')
-async def login():
-    return {'login.py': 'This is login.py', 'data': 1}
+async def login(email: str, password: str):
+    return auth.login(email,password)
 
 
 @app.get('/dashboard')
@@ -18,6 +20,10 @@ async def dashboard():
     return {'dashboard': 'This is dashboard', 'data': 2}
 
 
-@app.get('/api/stock/{stock}')
+@app.get('/api/stock')
 async def api(stock: str):
     return get_data(stock)
+
+@app.get('/api/stocks')
+async def api(stocks: str, start: str, end: str):
+    return get_multiple_data(stocks, start, end)
