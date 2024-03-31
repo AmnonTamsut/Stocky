@@ -25,7 +25,7 @@ Stocky is a versatile web application designed for stock enthusiasts to effortle
 
     ```bash
     git clone https://github.com/EASS-HIT-PART-A-2024-CLASS-IV/Stocky.git
-    cd Stocky
+    cd app
     ```
 
 2. Build and run the Docker containers:
