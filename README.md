@@ -39,7 +39,9 @@ Stocky is a versatile web application designed for stock enthusiasts to effortle
 
 3. Access the application:
 
-    Open your web browser and go to http://localhost:8501 to interact with the Stocky frontend.
+    * Open your web browser and go to http://localhost:8501 to interact with the Stocky frontend.
+    * To interact with FastAPI backend access http://localhost:4321
+    * MongoDB is running on port 27017
 
 
 
