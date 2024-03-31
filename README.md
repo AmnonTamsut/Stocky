@@ -37,6 +37,9 @@ Stocky is a versatile web application designed for stock enthusiasts to effortle
 
     
 
+
+    <img src="login_page.png">
+
 3. Access the application:
 
     * Open your web browser and go to http://localhost:8501 to interact with the Stocky frontend.
@@ -61,16 +64,6 @@ To stop and remove the Docker Compose application, run:
 docker compose down
 ```
 
-## Development and Testing
-
-### Running Tests
-
-Execute automated tests for the backend with:
-
-```bash
-docker-compose run --rm backend pytest
-```
-
 ## Demo and Tutorials
 
 ### Video Demo
@@ -80,3 +73,6 @@ Watch our video demo for a detailed walkthrough of Stocky's features and functio
 [Watch the project video demo here](#)
 
 
+
+
+[GitHub page](#https://github.com/AmnonTamsut)
