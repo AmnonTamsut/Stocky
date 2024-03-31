@@ -74,11 +74,7 @@ docker compose down
 Watch our video demo for a detailed walkthrough of Stocky's features and functionalities.
 
 
-<iframe width="240" height="240"
-src="https://www.youtube.com/watch?v=kE9tjNjCO5U">
-</iframe>
-
-
+[![Stocky Demo](https://img.youtube.com/vi/kE9tjNjCO5U/0.jpg)](https://www.youtube.com/watch?v=kE9tjNjCO5U)
 
 
 
