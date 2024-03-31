@@ -1,0 +1,33 @@
+version: '3.8'
+
+services:
+  frontend:
+    build: ./frontend
+    ports:
+      - "8501:8501"
+    networks:
+      - my-network
+    container_name: frontend
+
+  db:
+    build: ./db
+    image: mongo:latest
+    ports:
+      - "27017:27017"
+    networks:
+      - my-network
+    container_name: db
+
+  backend:
+    build: ./backend
+    ports:
+      - "4321:4321"
+    networks:
+      - my-network
+    container_name: backend_v1
+    environment:
+      - TZ=Asia/Jerusalem
+
+
+networks:
+  my-network:
