@@ -73,7 +73,7 @@ docker compose down
 
 Watch our video demo for a detailed walkthrough of Stocky's features and functionalities.
 
-[Watch the project video demo here](#)
+[Watch the project video demo here](#https://www.youtube.com/watch?v=kE9tjNjCO5U)
 
 
 
