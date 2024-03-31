@@ -41,6 +41,16 @@ Stocky is a versatile web application designed for stock enthusiasts to effortle
 
     Open your web browser and go to http://localhost:8501 to interact with the Stocky frontend.
 
+
+
+4. ????
+
+
+   
+5. Profit:
+    💎🙌💰
+
+
 ### Shutdown Procedure
 
 To stop and remove the Docker Compose application, run:
