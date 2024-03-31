@@ -67,8 +67,4 @@ Watch our video demo for a detailed walkthrough of Stocky's features and functio
 
 [Watch the project video demo here](#)
 
-## Connect and Contribute
 
-We're excited to collaborate with you! For contributions, queries, or to connect with the project team, visit our project page on GitHub.
-
-[Project Link on GitHub](#)
