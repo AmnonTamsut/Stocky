@@ -46,7 +46,7 @@ Stocky is a versatile web application designed for stock enthusiasts to effortle
 To stop and remove the Docker Compose application, run:
 
 ```bash
-docker-compose down
+docker compose down
 ```
 
 ## Development and Testing
