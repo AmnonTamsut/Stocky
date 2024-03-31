@@ -1,6 +1,6 @@
 # Stocky
 
-![Stocky Logo](full_long_logo.png)
+![Stocky Logo](logo.png)
 
 Stocky is a versatile web application designed for stock enthusiasts to effortlessly track and explore stock symbols and market trends. With a powerful FastAPI backend, a user-friendly Streamlit frontend, and seamless integration with MongoDB, Stocky offers a smooth and intuitive experience for staying updated on stock market activities.
 
