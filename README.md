@@ -73,7 +73,7 @@ docker compose down
 
 Watch our video demo for a detailed walkthrough of Stocky's features and functionalities.
 
-[Watch the project video demo here](#)
+
 <iframe width="240" height="240"
 src="https://www.youtube.com/watch?v=kE9tjNjCO5U">
 </iframe>
@@ -82,7 +82,7 @@ src="https://www.youtube.com/watch?v=kE9tjNjCO5U">
 
 
 
+GitHub Page:
 
-[GitHub page](#)
 <a href="https://github.com/AmnonTamsut">https://github.com/AmnonTamsut</a>
 
